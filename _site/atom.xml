@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I&apos;m Braden Desman.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-07-02T19:21:23-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Braden Desman</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>1 Mb Ultra-Low Power SRAM</title>
+   <link href="http://localhost:4000/vlsi/2023/05/20/vlsi_project.html"/>
+   <updated>2023-05-20T10:15:00-04:00</updated>
+   <id>http://localhost:4000/vlsi/2023/05/20/vlsi_project</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Weathercast</title>
+   <link href="http://localhost:4000/vlsi/2016/02/20/weathercast.html"/>
+   <updated>2016-02-20T10:56:00-05:00</updated>
+   <id>http://localhost:4000/vlsi/2016/02/20/weathercast</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
