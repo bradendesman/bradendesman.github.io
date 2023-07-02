@@ -1,6 +1,6 @@
 ---
 layout: inner
 title: Low-Power SRAM
-permalink: /low-power-SRAM/
+permalink: /low-power-sram/
 ---
 ## TEST
