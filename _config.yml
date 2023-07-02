@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Braden Desman."
 email: 'jzf5hc@virginia.edu'
-description: "I'm an aspiring hardware engineer from Clifton, Virginia"
+description: "I'm an aspiring hardware engineer from Clifton, Virginia."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bradendesman.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
@@ -63,7 +63,7 @@ pagination:
   sort_reverse: true
 
   # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
-  category: ''
+  category: 'vlsi'
 
   # Optional, the default tag to use, omit to disable
   tag: ''
