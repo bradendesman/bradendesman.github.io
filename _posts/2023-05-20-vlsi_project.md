@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: '1 Mb Ultra-Low Power SRAM'
-date: 2023-05-20
+date: 2023-05-05
 categories: development
 tags: VLSI Low-power Cadence
 lead_text: 'Implemented in the FreePDK 45nm technology using Cadence Virtuoso and Spectre.'
