@@ -9,7 +9,7 @@ lead_text: 'Designed circuit to drive LED light show synchronized to analog audi
 featured_image: '/img/posts/fun2_schematic.png'
 project_link: '/audio_processing_pcb'
 button_icon: ''
-button_text: 'See Project'
+button_text: 'Visit Project'
 ---
 
 

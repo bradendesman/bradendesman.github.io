@@ -9,7 +9,7 @@ lead_text: 'Implemented in the FreePDK 45nm technology using Cadence Virtuoso an
 featured_image: '/img/posts/05_bitcell_2422×1106.png'
 project_link: '/low-power-sram'
 button_icon: ''
-button_text: 'See Project'
+button_text: 'Visit Project'
 ---
 
 
