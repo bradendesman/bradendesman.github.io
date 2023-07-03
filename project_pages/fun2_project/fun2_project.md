@@ -20,7 +20,7 @@ permalink: /audio_processing_pcb/
     <li>LED Driver (MOSFETs to act as current sources for the LEDs)</li>
 </ol>
 
-<p class='description'>The block diagram of the design is shown below</p>
+<p class='description'>The block diagram of the design is shown below.</p>
 <img src='../../assets/fun2_bd.svg' alt='Audio Circuit Block Diagram'>    
 
 ### Outcomes

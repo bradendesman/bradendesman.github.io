@@ -36,6 +36,9 @@ $$ (Active\ energy\ per\ access)^2(Delay)(Area)(Idle\ Power)$$
 <ul>
     <li>Practiced self-pacing a months-long project with little direction beyond specification (e.g., setting internal deadlines, putting roadmap into place at beginning of semester) </li>
     <li>Honed communication skills when team was not working harmoniously by coordinating and mediating a meeting between team members. Generated action items to help course-correct and improve collaboration, ultimately leading to a successful project delivery.</li>
+    <li>Improved ability to evaluate design space and make decisions at all levels of system hierarchy to tailor design to application needs</li>
+    <li>Gained experience with schematic capture in Cadence Virtuoso and design verification using Spectre</li>
+    
 </ul>
 
 ### Report

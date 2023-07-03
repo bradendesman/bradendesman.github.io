@@ -16,7 +16,7 @@
 title: "Hello. I'm Braden Desman."
 my-name: "Braden Desman"
 email: 'jzf5hc@virginia.edu'
-description: "I'm an aspiring hardware engineer from Clifton, Virginia"
+description: "I'm an aspiring computer engineer from Clifton, Virginia"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bradendesman.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
