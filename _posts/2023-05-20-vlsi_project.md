@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: '1 Mb Ultra-Low Power SRAM'
+title: '1 Mbit Ultra-Low Power SRAM'
 date: 2023-05-20 14:15:00
 categories: vlsi
 tags: VLSI Low-power Cadence
