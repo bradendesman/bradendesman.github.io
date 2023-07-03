@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
 ## Page under construction...

@@ -48,4 +48,6 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Projects' }
+  - { url: '/resume', text: 'Resume' }
   - { url: '/about', text: 'About' }
+  
