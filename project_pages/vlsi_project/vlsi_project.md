@@ -4,9 +4,40 @@ title: Low-Power SRAM
 permalink: /low-power-sram/
 ---
 # 1 Mbit Ultra-Low Power SRAM
-Goal: Design a 1 Mbit SRAM optimized in terms of its active energy per access.
+*This project was completed as part of ECE 4332 (Introduction to VLSI Design) at UVA*
 
-$$ x=3 $$ 
 
-[Download]({{ site.url }}/project_pages/vlsi_project/DesmanECE4332Report.pdf) the full report here.
+### Project Goals
+<p class="description">The goal of this project was to design a 1 Mbit SRAM and implement the design using FreePDK's 45nm technology in Cadence Virtuoso, while demonstrating functionality at the following PVT corners:</p>
+
+<ul>
+    <li>[TT, FF, SS, FS, SF]</li>
+    <li>[0C, 27C, 50C]</li>
+    <li>[VDD - 10%, VDD, VDD + 10%]</li>
+</ul>
+
+<p class='description'>The design was to be optimized such that the following figure of merit was minimized:</p>
+
+$$ (Active\ energy\ per\ access)^2(Delay)(Area)(Idle\ Power)$$
+
+### Outcomes
+
+<p class='description'> <b> Design Outcomes </b></p>
+<ul>
+    <li>We achieved a figure of merit of $ 2.05 \times 10^{-33} J^2*sec*mm*W$, whereas the historical class average is on the order of $10^{-29}$</li>
+    <li>We measured an extremely low average energy per access of $687$ fJ for the read operation and $875$ fJ for the write operation at $50$ MHz and $V_{DD}=0.4\ V$.</li>
+    <li>We recorded an inactive power of $123\ \mu W$ under 27C, TT conditions.</li>
+</ul>
+
+<p class='description'> <b> Skill-related Outcomes </b></p>
+<ul>
+    <li>Practiced self-pacing a months-long project with little direction beyond specification (e.g., setting internal deadlines, putting roadmap into place at beginning of semester) </li>
+    <li>Honed communication skills when team was not working harmoniously by coordinating and mediating a meeting between team members. Generated action items to help course-correct and improve collaboration, ultimately leading to a successful project delivery.</li>
+</ul>
+
+### Report
+<p class='description'>For more details about the project, check out the report embedded below.</p>
+{% pdf {{ site.url }}/project_pages/vlsi_project/DesmanECE4332Report.pdf no_link %}
+
+
 

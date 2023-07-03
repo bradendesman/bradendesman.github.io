@@ -247,6 +247,10 @@ button.btn, input.btn {
   }
 }
 
+.description {
+  font-size: 1.1em
+}
+
 .content-wrap {
   margin-bottom: 8em;
   @include bp-xsmall {
