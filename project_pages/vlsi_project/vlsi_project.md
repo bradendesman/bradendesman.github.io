@@ -20,6 +20,9 @@ permalink: /low-power-sram/
 
 $$ (Active\ energy\ per\ access)^2(Delay)(Area)(Idle\ Power)$$
 
+### Approach
+<p class='description'>The figure of merit equation guided my approach to this design. Since $V_{DD}$ is squared in the active energy equation, which is itself then squared in the design metric, lowering $V_{DD}$ was given the highest priority when making design decisions. I also sought to reduce the active energy per access by structuring large interconnects hierarchically and looking for energy-optimized bitcells in the literature.</p>
+
 ### Outcomes
 
 <p class='description'> <b> Design Outcomes </b></p>
