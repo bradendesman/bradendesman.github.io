@@ -37,7 +37,10 @@ $$ (Active\ energy\ per\ access)^2(Delay)(Area)(Idle\ Power)$$
 
 ### Report
 <p class='description'>For more details about the project, check out the report embedded below.</p>
-{% pdf {{ site.url }}/project_pages/vlsi_project/DesmanECE4332Report.pdf no_link %}
+
+<div class='pdf-container'>
+<object data="../../assets/DesmanECE4332Report.pdf" style="width:100%;height:100%;" type='application/pdf'></object></div>
+
 
 
 
