@@ -25,6 +25,9 @@ medium_username: ''
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+   math_engine: mathjax
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate
