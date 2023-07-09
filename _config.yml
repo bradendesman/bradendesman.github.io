@@ -52,7 +52,7 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Projects' }
+  - { url: '/#portfolio', text: 'Projects' }
   - { url: '/resume', text: 'Resume' }
   - { url: '/about', text: 'About' }
   
